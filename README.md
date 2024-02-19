@@ -3,13 +3,13 @@ Los ejercicio que se han hecho en esta práctica, han sido una serie de pasos pa
 Los distintos comando que he utilizado han sido:
 
 
-git init --> Inicializa un nuevo repositorio Git en el directorio actua
-git branch -->  Crea una nueva rama
-git checkout --> Cambia a la rama especificada.
-git checkout -b <nombre> --> Crea una nueva rama y se cambia a ella en un solo paso.
-git merge <nombre_rama> --> Fusiona la rama especificada con la rama actual.
-git add <nombre_archivo> --> Agrega cambios en un archivo al área de preparación.
-git commit -m "Mensaje" --> Crea un nuevo commit con los cambios en el área de preparación y un mensaje descriptivo.
+- git init --> Inicializa un nuevo repositorio Git en el directorio actua
+- git branch -->  Crea una nueva rama
+- git checkout --> Cambia a la rama especificada.
+- git checkout -b <nombre> --> Crea una nueva rama y se cambia a ella en un solo paso.
+- git merge <nombre_rama> --> Fusiona la rama especificada con la rama actual.
+- git add <nombre_archivo> --> Agrega cambios en un archivo al área de preparación.
+- git commit -m "Mensaje" --> Crea un nuevo commit con los cambios en el área de preparación y un mensaje descriptivo.
 git reset <archivo> --> Quita los cambios del archivo del área de preparación.
 git reset --hard <commit> --> Restaura el estado del repositorio a un commit específico, eliminando los cambios locales no guardados.
 git log --> Muestra el historial de commits.
